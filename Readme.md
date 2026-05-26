@@ -88,14 +88,3 @@ Open in browser:
 http://localhost:8000/login.php
 ```
 
----
-
-## Future Improvements
-
-* Password Hashing
-* Search & Filters
-* Resume Upload Feature
-* Email Notifications
-* Analytics Dashboard
-* Dark Mode
-* Admin Panel
