@@ -2,32 +2,34 @@
 
 A Multi-User Job Application Tracking System built using PHP, SQLite, AJAX, jQuery, and Bootstrap.
 
+---
+
 ## Features
 
-* User Registration & Login Authentication
-* Session Management
-* Multi-User Dashboard
-* Add Job Applications
-* Update Application Status
-* Delete Applications
-* User-Specific Job Tracking
-* AJAX-Based Dynamic Updates
-* Responsive Bootstrap UI
-* SQLite Database Integration
-* Application Timestamp Tracking
+- User Registration & Login Authentication
+- Session Management
+- Multi-User Dashboard
+- Add Job Applications
+- Update Application Status
+- Delete Applications
+- User-Specific Job Tracking
+- AJAX-Based Dynamic Updates
+- Responsive Bootstrap UI
+- SQLite Database Integration
+- Application Timestamp Tracking
 
 ---
 
 ## Tech Stack
 
-* PHP
-* SQLite
-* HTML5
-* CSS3
-* Bootstrap 5
-* JavaScript
-* jQuery
-* AJAX
+- PHP
+- SQLite
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- jQuery
+- AJAX
 
 ---
 
@@ -68,25 +70,3 @@ JobNest/
 ├── jobs.db
 ├── .gitignore
 └── README.md
-```
-
----
-
-## Installation
-
-```bash
-git clone <repo-url>
-
-cd JobNest
-
-php -S localhost:8000
-```
-
-Open in browser:
-
-```text
-http://localhost:8000/login.php
-```
-
-
-
